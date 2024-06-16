@@ -1,1 +1,1 @@
-Das eisdt eine Datei zum Testen von Git und GitHub //TE
+Das ist eine Datei zum Testen von Git und GitHub 2.0 //TE
